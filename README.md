@@ -6,8 +6,8 @@ Create an online calculator that can add, subtract, multiply and divide. Use a J
 ```
 node index.js
 ```
-Open your browser and go to http://localhost:3000/index.html
+Open your browser and go to `http://localhost:3000/index.html`
 
 ### Author
 
-Dio
+**Dio**
